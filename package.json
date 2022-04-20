@@ -1,0 +1,15 @@
+{
+  "name": "my_launchx_app",
+  "version": "1.0.0",
+  "description": "First practice of the third week",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node ./node_modules/jest/bin/jest.js"
+  },
+  "author": "Kaserola4",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
